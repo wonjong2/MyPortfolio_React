@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/wonjong2/MyPortfolio_React/static/css/main.24182c44.css",
-    "main.js": "/wonjong2/MyPortfolio_React/static/js/main.6451ace9.js",
-    "static/media/world_travel_dictionary.png": "/wonjong2/MyPortfolio_React/static/media/world_travel_dictionary.3e8a739501edc0ca6acf.png",
-    "static/media/header_bg.jpg": "/wonjong2/MyPortfolio_React/static/media/header_bg.2acd254e7b75fe3a5b26.jpg",
-    "static/media/bens_diner.png": "/wonjong2/MyPortfolio_React/static/media/bens_diner.49b4fb28f18dad2f6127.png",
-    "static/media/Wonjong_Park_Resume.pdf": "/wonjong2/MyPortfolio_React/static/media/Wonjong_Park_Resume.7eff8e57fc4c24095d5a.pdf",
-    "static/media/weather_dashboard.png": "/wonjong2/MyPortfolio_React/static/media/weather_dashboard.d361bdd9da429583c8f1.png",
-    "static/media/wonjong.jpg": "/wonjong2/MyPortfolio_React/static/media/wonjong.b2bc142463e180c3697d.jpg",
-    "static/media/pwa_text_editor.png": "/wonjong2/MyPortfolio_React/static/media/pwa_text_editor.3883d08b97afecde5e7e.png",
-    "static/media/day_scheduler.png": "/wonjong2/MyPortfolio_React/static/media/day_scheduler.5e4bb6a2d7b8aea9016d.png",
-    "static/media/tech_blog_mvc.png": "/wonjong2/MyPortfolio_React/static/media/tech_blog_mvc.88664aa11feb01a8c280.png",
-    "index.html": "/wonjong2/MyPortfolio_React/index.html",
-    "main.24182c44.css.map": "/wonjong2/MyPortfolio_React/static/css/main.24182c44.css.map",
-    "main.6451ace9.js.map": "/wonjong2/MyPortfolio_React/static/js/main.6451ace9.js.map"
+    "main.css": "/MyPortfolio_React/static/css/main.6294d47a.css",
+    "main.js": "/MyPortfolio_React/static/js/main.f570a77d.js",
+    "static/media/world_travel_dictionary.png": "/MyPortfolio_React/static/media/world_travel_dictionary.3e8a739501edc0ca6acf.png",
+    "static/media/header_bg.jpg": "/MyPortfolio_React/static/media/header_bg.2acd254e7b75fe3a5b26.jpg",
+    "static/media/bens_diner.png": "/MyPortfolio_React/static/media/bens_diner.49b4fb28f18dad2f6127.png",
+    "static/media/Wonjong_Park_Resume.pdf": "/MyPortfolio_React/static/media/Wonjong_Park_Resume.7eff8e57fc4c24095d5a.pdf",
+    "static/media/weather_dashboard.png": "/MyPortfolio_React/static/media/weather_dashboard.d361bdd9da429583c8f1.png",
+    "static/media/wonjong.jpg": "/MyPortfolio_React/static/media/wonjong.b2bc142463e180c3697d.jpg",
+    "static/media/pwa_text_editor.png": "/MyPortfolio_React/static/media/pwa_text_editor.3883d08b97afecde5e7e.png",
+    "static/media/day_scheduler.png": "/MyPortfolio_React/static/media/day_scheduler.5e4bb6a2d7b8aea9016d.png",
+    "static/media/tech_blog_mvc.png": "/MyPortfolio_React/static/media/tech_blog_mvc.88664aa11feb01a8c280.png",
+    "index.html": "/MyPortfolio_React/index.html",
+    "main.6294d47a.css.map": "/MyPortfolio_React/static/css/main.6294d47a.css.map",
+    "main.f570a77d.js.map": "/MyPortfolio_React/static/js/main.f570a77d.js.map"
   },
   "entrypoints": [
-    "static/css/main.24182c44.css",
-    "static/js/main.6451ace9.js"
+    "static/css/main.6294d47a.css",
+    "static/js/main.f570a77d.js"
   ]
 }
